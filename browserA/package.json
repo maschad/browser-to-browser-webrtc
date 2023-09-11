@@ -1,0 +1,11 @@
+{
+  "name": "js-libp2p-browser-a",
+  "version": "1.0.0",
+  "description": "Connect a browser to another browser",
+  "type": "module",
+  "author": "maschad",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}
